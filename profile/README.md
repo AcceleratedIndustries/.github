@@ -11,7 +11,7 @@ so humans can focus on what matters.
 ## 🌟 What We’re Working On
 - **Accelerated WMS (Warehouse Management System)**  
   AI-first, lightweight, and designed for SMBs and enterprise alike.
-- **HyprSTT**
+- **HyprSTT**  
   Speech to text for Hyprland and Niri! Fast and locally hosted. 
 - **DropSync**  
   A smart file sync and integration service for seamless data flows.

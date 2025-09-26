@@ -3,7 +3,7 @@
 **AI First. Warehouse Smart.**
 
 We are building the next generation of **AI-driven warehouse and logistics software**.  
-Our goal: reduce overhead, streamline operations, and let AI make the hard decisions —  
+Our goal: reduce overhead, streamline operations, and let AI make the routine decisions —  
 so humans can focus on what matters.
 
 ---

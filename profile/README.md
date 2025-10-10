@@ -17,6 +17,8 @@ so humans can focus on what matters.
   A smart file sync and integration service for seamless data flows.
 - **AI Tools**  
   Internal projects that power automation, decision support, and voice interfaces.
+- **Accel WMS** 
+  Our AI-driven WMS is coming soon. 
 
 ---
 

@@ -17,8 +17,8 @@ so humans can focus on what matters.
   A smart file sync and integration service for seamless data flows.
 - **AI Tools**  
   Internal projects that power automation, decision support, and voice interfaces.
-  **Bifrost Bridge**
-- Bifrost is a handy tool that bridges your Claude Code in the terminal to the Signal app on your phone.  It allows you to answer Claude's permission request and others, via the phone in your pocket.  You're no longer tethered to your workstation.
+- **Bifrost Bridge**
+  Bifrost is a handy tool that bridges your Claude Code in the terminal to the Signal app on your phone.  It allows you to answer Claude's permission request and others, via the phone in your pocket.  You're no longer tethered to your workstation.
 
 ---
 
